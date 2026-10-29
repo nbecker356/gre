@@ -2,7 +2,7 @@
 slug: "0f8efe91ee"
 type: garden
 title: Villa Of Arnesp
-latlon: [ 0, 0 ]
+latlon: [43.0961355178, 0.688872330365]
 jashemski-catalogue: AQU 2.1
 author: Eric Morvillez, Clopper Almon
 translator: Translator Name
@@ -56,15 +56,15 @@ Behind this room, further north, extended a large peristyle thought to have been
 
 
 ## Keywords
-- {{< keyword "villas" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "bathhouses" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "courtyards" >}}
+- {{<keyword "villas" >}}
+- {{<keyword "peristyles" >}}
+- {{<keyword "bathhouses" >}}
+- {{<keyword "pools" >}}
+- {{<keyword "courtyards" >}}
 
-<!--
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+<!-- places containing this garden will be listed automatically -->
+- {{< id vocab="Pleiades" id="249997" name="Arnesp Roman villa, Valentine, Haute-Garonne" >}}
+<!-- - {{< id vocab="TGN" id="" name="" >}}
 -->
